@@ -1,0 +1,4 @@
+<%# prepend the turbo frame with the id quotes with the quote partial and pass along the created quote %>
+<%= turbo_stream.prepend "quotes", @quote %>
+<%# update the turbo_stream with an id of new quote with empty content %>
+<%= turbo_stream.update Quote.new, "" %>
