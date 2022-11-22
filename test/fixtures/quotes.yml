@@ -1,8 +1,11 @@
 first:
+  company: kpmg
   name: First quote
 
 second:
-  name: Second quote
+  company: kpmg
+  name: The New York Giants will beat the Dallas Cowboys on Thanksgiving day in 2022
 
 third:
+  company: kpmg
   name: Third quote
