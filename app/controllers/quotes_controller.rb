@@ -6,7 +6,9 @@ class QuotesController < ApplicationController
   end
 
   def show
-    @line_item_dates = @quote.line_item_dates.ordered
+    # .includes(:line_items) preloads the associated line items for the show page
+    # so that the line_items query is only performed once when navigating to the page
+    @line_item_dates = @quote.line_item_dates.includes(:line_items).ordered
   end
 
   def new
