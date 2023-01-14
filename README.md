@@ -1,7 +1,7 @@
 # README
 
 ** Turbo Rails Tutorial
-This project follows along with the Turbo Rails Tutorial["https://www.hotrails.dev/turbo-rails"] by Alexandre Ruben
+This project follows along with the Turbo Rails Tutorial(https://www.hotrails.dev/turbo-rails) by Alexandre Ruben
 
 * Ruby version
 
