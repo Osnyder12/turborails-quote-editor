@@ -1,9 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+** Turbo Rails Tutorial
+This project follows along with the Turbo Rails Tutorial["https://www.hotrails.dev/turbo-rails"] by Alexandre Ruben
 
 * Ruby version
 
